@@ -1,9 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&text=KimDongMin)
 <div align=center>
 <h5>안녕하세요🖐<br>
-제 이름은 김동민 이고 백엔드 공부를 하고 있습니다<br>
-현재 회사에 다니며 대학교를 재학중이며<br>
-뭐든 배우려는 자세로 학습에 임하고 있습니다</h5>
+곰탱이 개발자 김동민 입니다.</h5>
 <br>
   <br>
   <br>
